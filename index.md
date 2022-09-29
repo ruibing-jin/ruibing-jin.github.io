@@ -30,8 +30,6 @@ My research interests include computer vision, machine learning and time series 
 <strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
 <br />
 <em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JAS</i></strong>.</em>
-<br /> 
-<br/>
 </p>
 </div>
 
@@ -43,8 +41,6 @@ My research interests include computer vision, machine learning and time series 
 <strong>Ruibing Jin</strong>, Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
 <br />
 <em>IEEE Transactions on Instrumentation and Measurement. <strong><i style="color:#1e90ff">TIM</i></strong>.</em>
-<br /> 
-<br/>
 </p>
 </div>
 
@@ -57,8 +53,6 @@ My research interests include computer vision, machine learning and time series 
 <br />
 <em>Knowledge-Based Systems. <strong><i style="color:#1e90ff">KBS</i></strong>.</em>
 <br /> 
-<br />
-<br />
 </p>
 </div>
 
@@ -70,8 +64,6 @@ My research interests include computer vision, machine learning and time series 
 <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
 <br />
 <em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
-<br /> 
-<br/>
 </p>
 </div>
 
