@@ -26,11 +26,10 @@ My research interests include computer vision, machine learning and time series 
 <div class="paper">
   <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</strong>
-<br>
-<strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
-<br>
-<em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JAS</i></strong>.</em>
 <br />
+<strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
+<br />
+<em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JASa</i></strong>.</em>
 </p>
 </div>
 
@@ -39,11 +38,10 @@ My research interests include computer vision, machine learning and time series 
 <div class="paper">
   <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/ts_blstm.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</strong>
-<br>
-<strong>Ruibing Jin</strong>, Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
-<br>
-<em>IEEE Transactions on Instrumentation and Measurement. <strong><i style="color:#1e90ff">TIM</i></strong>.</em>
 <br />
+<strong>Ruibing Jin</strong>, Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
+<br />
+<em>IEEE Transactions on Instrumentation and Measurement. <strong><i style="color:#1e90ff">TIM</i></strong>.</em>
 </p>
 </div>
 
