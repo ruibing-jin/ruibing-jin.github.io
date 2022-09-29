@@ -67,13 +67,3 @@ My research interests include computer vision, machine learning and time series 
 <em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
 </p>
 </div>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7ETJRETJ5W"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7ETJRETJ5W');
-</script>
