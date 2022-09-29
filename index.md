@@ -54,7 +54,7 @@ My research interests include computer vision, machine learning and time series 
 <p><strong>Online Active Proposal Set Generation for Weakly Supervised Object Detection</strong>
 <br />
 <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen
-<br/>
+<br />
 <em>Knowledge-Based Systems. <strong><i style="color:#1e90ff">KBS</i></strong>.</em>
 <br /> 
 <br/>
@@ -68,7 +68,7 @@ My research interests include computer vision, machine learning and time series 
 <br />
 <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
 <br />
-<em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
+<em>Pattern Recognition. <strong><i style="color:#1e90ff">PRs</i></strong>.</em>
 <br /> 
 <br/>
 </p>
