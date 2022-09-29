@@ -24,7 +24,7 @@ My research interests include computer vision, machine learning and time series 
 ## Selected Publications
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="220" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</strong>
 <br />
 <strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
