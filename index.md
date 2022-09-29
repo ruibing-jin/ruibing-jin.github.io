@@ -3,31 +3,23 @@ layout: homepage
 ---
 
 ## About Me
-I am a researcher scientist (Level 10) at Tencent. I obtained Ph.D. degree at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore, where I worked under the supervision of Prof. Guosheng Lin.  I also work closely with Prof. Chunhua Shen and Prof. Rui Yao in research. Feel free to drop me emails if you have interests.
+I am currently a Scientist at at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. Previously, I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC) at 2014. After that, I finished my Master degree and Ph.D degree from Nanyang Technological University (NTU), Singapore at 2016 and 2020, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
 
 ## Research Interests
-I have wide research interests in computer vision and machine learning. Some specific topics that I have previously worked on are listed below:
-- **Vision:** depth estimation, image recognition, image segmentation, differentiable rendering, 3D Vision
-- **Learning:** few-shot learning, meta-learning, incremental learning, long-tailed recognition, open-set recognition, AutoML, knowledge distillation
-
-## Extracurricular Activities
-Besides research, I also actively participate in many extracurricular activities. I like singing and was in Top 8 of Good Voice of Universities 2015 in CUMT. I play football regularly and keep a record of  Dribbling & Shooting  in CUMT. I am a fan of  <del>Football Club of Barcelona</del> PSG. My favourite singers are Jacky Cheung and Freddie Mercury.
+My research interests include computer vision, machine learning and time series analysis. The specific topics which I previously researched on are listed below:
+- **Computer Vision:** video object detection, object detection, point cloud
+- **Machine Learning:** weakly supervised learing, knowledge distillation
+- **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
 
 ## News
-- **[Sept. 2022]** One paper on monocular depth estimation is accepted to [NeurIPS 2022](https://nips.cc/).
-- **[Jun. 2022]** One paper is accepted to [ACM Multimedia 2022](https://2022.acmmm.org/).
-- **[Jun. 2022]** One paper is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
-- **[Dec. 2021]** I have successfully passed the Ph.D. Oral Defence. You may call me Dr.Zhang from now :)
-- **[Jul. 2021]** One preprint on long-tailed recognition is uploaded to [Arxiv](https://arxiv.org/abs/2108.12757).
-- **[Jul. 2021]** One paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com/).
-- **[Jun. 2021]** One paper is accepted to [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
-- **[Mar. 2021]** One paper is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
-- **[Oct. 2020]** One paper is accepted to [ACM Multimedia 2020](https://2020.acmmm.org/).
-- **[Mar. 2020]** Three papers are accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[May. 2020]** [DeepEMD V2](https://arxiv.org/pdf/2003.06777.pdf) is released! Outperform SOTA by up to **7.4%** on benchmarks.
-- **[Nov. 2019]** One paper is accepted to [ICCV 2019](https://iccv2019.thecvf.com/).
-- **[Mar. 2019]** One paper is accepted to [CVPR 2019](https://cvpr2019.thecvf.com/).
-- **[Jan. 2018]** I begin my Ph.D study at NTU.
+- **[Aug. 2022]** One paper is accepted to *IEEE/CAA Journal of Automatica Sinica*.
+- **[Apr. 2022]** One paper is accepted to *IEEE Transactions on Instrumentation and Measurement*.
+- **[Feb. 2022]** One paper is accepted to *Knowledge-Based Systems*
+- **[Feb. 2022]** One paper is accepted to *Pattern Recognition*
+- **[Jun. 2021]** Our team *AStarTrek* achieved the **1st place winner** for [the CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html).
+- **[Jun. 2021]** One paper is accepted to *Journal of Biophotonics*.
+- **[Apr. 2021]** One paper is accepted to *Biomedical Optics Express*.
+- **[Oct. 2020]** One paper is accepted to *IEEE Signal Processing Letters*.
 
 ## Selected Publications
 [comment]: <> (iccv2021.)
