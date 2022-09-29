@@ -29,11 +29,10 @@ My research interests include computer vision, machine learning and time series 
 <br />
 <strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
 <br />
-<em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JAS</i></strong>.</em>
+<em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JASa</i></strong>.</em>
 <br/>
 </p>
 </div>
-
 
 [comment]: <>
 <div class="paper">
