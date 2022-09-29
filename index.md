@@ -31,7 +31,6 @@ My research interests include computer vision, machine learning and time series 
 <br />
 <em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JAS</i></strong>.</em>
 <br /> 
-<br/>
 </p>
 </div>
 
