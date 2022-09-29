@@ -24,7 +24,7 @@ My research interests include computer vision, machine learning and time series 
 ## Selected Publications
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/teaser/search_fsl.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</strong>
 <br />
 <strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
@@ -36,7 +36,7 @@ My research interests include computer vision, machine learning and time series 
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/teaser/fscil.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/ts_blstm.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</strong>
 <br />
 <strong>Ruibing Jin</strong>, Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
@@ -48,7 +48,7 @@ My research interests include computer vision, machine learning and time series 
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/teaser/deepemd.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/opg.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Online Active Proposal Set Generation for Weakly Supervised Object Detection</strong>
 <br />
 <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen
@@ -60,7 +60,7 @@ My research interests include computer vision, machine learning and time series 
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/teaser/pgnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/ff_net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Feature flow: In-network feature flow estimation for video object detection</strong>
 <br />
 <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
