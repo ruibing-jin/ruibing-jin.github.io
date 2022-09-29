@@ -46,30 +46,6 @@ My research interests include computer vision, machine learning and time series 
 </p>
 </div>
 
-[comment]: <>
-<div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/opg.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>Online Active Proposal Set Generation for Weakly Supervised Object Detection</strong>
-<br />
-<strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen
-<br/>
-<em>Knowledge-Based Systems. <strong><i style="color:#1e90ff">KBS</i></strong>.</em>
-<br/> 
-</p>
-</div>
-
-[comment]: <>
-<div class="paper">
-  <div class="teaser" style="float:left;width:20%;margin: 5px 10px 10px 0;"><img src="images/ff_net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>Feature flow: In-network feature flow estimation for video object detection</strong>
-<br />
-<strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
-<br />
-<em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
-<br/> 
-</p>
-</div>
-
 
 
 <!---
