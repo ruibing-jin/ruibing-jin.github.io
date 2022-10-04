@@ -12,6 +12,7 @@ My research interests include computer vision, machine learning and time series 
 - **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
 
 ## News
+- **[Oct. 2022]** The source code for our [PE-Net](https://github.com/ruibing-jin/PE-Net) is released!
 - **[Aug. 2022]** One paper is accepted to *IEEE/CAA Journal of Automatica Sinica*.
 - **[Apr. 2022]** One paper is accepted to *IEEE Transactions on Instrumentation and Measurement*.
 - **[Feb. 2022]** One paper is accepted to *Knowledge-Based Systems*
