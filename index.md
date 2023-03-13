@@ -36,6 +36,8 @@ My research interests include computer vision, machine learning and time series 
 <strong>Ruibing Jin</strong>, Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
 <br />
 <em>IEEE Transactions on Industrial Informatics. <strong><i style="color:#1e90ff">TII</i></strong>.</em>
+<br />
+<br />
 </p>
 </div>
 
