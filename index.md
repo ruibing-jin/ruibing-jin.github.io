@@ -12,6 +12,7 @@ My research interests include computer vision, machine learning and time series 
 - **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
 
 ## News
+- **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Industrial Informatics*.
 - **[Dec. 2022]** Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won **the best paper award** at The 17th IEEE Conference on Industrial Electronics and Applications 2022！
 - **[Dec. 2022]** The source code for our [Bi-LSTM based Two-Stream Network for RUL](https://github.com/ruibing-jin/Bi_LSTM_TS) is released!
 - **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
