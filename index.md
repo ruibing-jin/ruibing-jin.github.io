@@ -30,6 +30,17 @@ My research interests include computer vision, machine learning and time series 
 ## Selected Publications
 [comment]: <>
 <div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/adanet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<p><strong>An adaptive and dynamical neural network for machine remaining useful life prediction</strong>
+<br />
+<strong>Ruibing Jin</strong>, Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
+<br />
+<em>IEEE Transactions on Industrial Informatics. <strong><i style="color:#1e90ff">JAS</i></strong>.</em>
+</p>
+</div>
+
+[comment]: <>
+<div class="paper">
   <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</strong>
 <br />
