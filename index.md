@@ -11,6 +11,13 @@ My research interests include computer vision, machine learning and time series 
 - **Machine Learning:** weakly supervised learing, knowledge distillation
 - **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
 
+## Awards
+- **Best Paper Award, The 17th IEEE Conference on Industrial Electronics and Applications (2022)**
+- **1st Place Winner, CVPR $\rm{UG^2}$+ Challenge (Fully Supervised Action Recognition in the Dark) (2021)**
+
+## Service
+I am a reviewer for various top conferences and journals including CVPR, ICCV, ECCV, TCSVT, etc.
+
 ## News
 - **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Industrial Informatics*.
 - **[Dec. 2022]** Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won **the best paper award** at The 17th IEEE Conference on Industrial Electronics and Applications 2022！
@@ -87,10 +94,3 @@ My research interests include computer vision, machine learning and time series 
 </p>
 </div>
 
-
-## Awards
-- **Best Paper Award, The 17th IEEE Conference on Industrial Electronics and Applications (2022)**
-- **1st Place Winner, CVPR $\rm{UG^2}$+ Challenge (Fully Supervised Action Recognition in the Dark) (2021)**
-
-## Service
-I am a reviewer for various top conferences and journals including CVPR, ICCV, ECCV, TCSVT, etc.
