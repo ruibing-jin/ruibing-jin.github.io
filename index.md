@@ -86,3 +86,11 @@ My research interests include computer vision, machine learning and time series 
 <em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
 </p>
 </div>
+
+
+## Awards
+- **Best Paper Award, The 17th IEEE Conference on Industrial Electronics and Applications (2022)**
+- **1st Place Winner, CVPR $\rm{UG^2}$+ Challenge (Fully Supervised Action Recognition in the Dark) (2021)**
+
+## Service
+I am a reviewer for various top conferences and journals including CVPR, ICCV, ECCV, TCSVT, etc.
