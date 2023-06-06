@@ -12,8 +12,8 @@ My research interests include computer vision, machine learning and time series 
 - **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
 
 ## Awards
-- **Best Paper Award, The 17th IEEE Conference on Industrial Electronics and Applications (2022)**
-- **1st Place Winner, CVPR UG2+ Challenge (Fully Supervised Action Recognition in the Dark) (2021)**
+- **Best Paper Award**, The 17th IEEE Conference on Industrial Electronics and Applications (2022)
+- **1st Place Winner**, CVPR UG2+ Challenge: Fully Supervised Action Recognition in the Dark (2021)
 
 ## Service
 I am a reviewer for various top conferences and journals including CVPR, ICCV, ECCV, TCSVT, etc.
