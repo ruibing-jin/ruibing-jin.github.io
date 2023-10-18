@@ -19,6 +19,7 @@ My research interests include computer vision, machine learning and time series 
 I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TICPS, Knowledge-based systems, etc.
 
 ## News
+- **[Oct. 2023]** One paper is accepted by *IEEE Transactions on Reliability*.
 - **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Industrial Informatics*.
 - **[Dec. 2022]** Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won **the best paper award** at The 17th IEEE Conference on Industrial Electronics and Applications 2022！
 - **[Dec. 2022]** The source code for our [Bi-LSTM based Two-Stream Network for RUL](https://github.com/ruibing-jin/Bi_LSTM_TS) is released!
