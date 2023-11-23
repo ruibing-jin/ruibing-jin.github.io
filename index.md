@@ -6,10 +6,7 @@ layout: homepage
 I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. Previously, I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC) at 2014. After that, I obtained my Master degree and Ph.D degree from Nanyang Technological University (NTU), Singapore at 2016 and 2020, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
 
 ## Research Interests
-My research interests include computer vision, machine learning and time series analysis. The specific topics which I previously researched on are listed below:
-- **Computer Vision:** video object detection, object detection, point cloud
-- **Machine Learning:** weakly supervised learing, knowledge distillation
-- **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
+My research interests include computer vision, machine learning and time series.
 
 ## Awards
 - **Best Paper Award**, The 17th IEEE Conference on Industrial Electronics and Applications (2022)
