@@ -16,6 +16,7 @@ My research interests include computer vision, machine learning and time series.
 I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TII, Knowledge-based systems, etc.
 
 ## News
+- **[Dec. 2022]** One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.
 - **[Oct. 2023]** One paper is accepted by *IEEE Transactions on Neural Networks and Learning Systems*.
 - **[Oct. 2023]** One paper is accepted by *IEEE Transactions on Reliability*.
 - **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Industrial Informatics*.
