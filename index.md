@@ -6,14 +6,14 @@ layout: homepage
 I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. Previously, I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC) at 2014. After that, I obtained my Master degree and Ph.D degree from Nanyang Technological University (NTU), Singapore at 2016 and 2020, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
 
 ## Research Interests
-My research interests include computer vision, machine learning, time series, federated learning.
+My research interests include computer vision, machine learning, time series and federated learning.
 
 ## Awards
 - **Best Paper Award**, The 17th IEEE Conference on Industrial Electronics and Applications (2022)
 - **1st Place Winner**, CVPR UG2+ Challenge: Fully Supervised Action Recognition in the Dark (2021)
 
 ## Services
-I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TII, Knowledge-based systems, etc.
+I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TII, etc.
 
 ## News
 - **[Dec. 2023]** One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.
