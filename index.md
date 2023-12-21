@@ -37,6 +37,19 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 ## Selected Publications
 [comment]: <>
 <div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/fedalign.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<p><strong>FedAlign: Federated Model Alignment via Data-Free Knowledge Distillation for Machine Fault Diagnosis</strong>
+<br />
+Wenjun Sun, Ruqiang Yan*, <strong>Ruibing Jin*</strong>, Rui Zhao, Zhenghua Chen
+<br />
+<em>IEEE Transactions on Instrumentation and Measurement. <strong><i style="color:#1e90ff">TIM</i></strong>.</em>
+<br />
+<br />
+</p>
+</div>
+
+[comment]: <>
+<div class="paper">
   <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/liteformer.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>LiteFormer: A Lightweight and Efficient Transformer for Rotating Machine Fault Diagnosis</strong>
 <br />
