@@ -16,6 +16,7 @@ My research interests include computer vision, machine learning, time series and
 I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TII, etc.
 
 ## News
+- **[Feb. 2024]** Our [AdaNet](https://ieeexplore.ieee.org/abstract/document/10065450) published on TII is reported on [A*STAR Research Highlights](https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/).
 - **[Dec. 2023]** One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.
 - **[Oct. 2023]** One paper is accepted by *IEEE Transactions on Neural Networks and Learning Systems*.
 - **[Oct. 2023]** One paper is accepted by *IEEE Transactions on Reliability*.
