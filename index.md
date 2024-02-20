@@ -30,7 +30,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 - **[Apr. 2022]** One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.
 - **[Feb. 2022]** One paper is accepted by *Knowledge-Based Systems*
 - **[Feb. 2022]** One paper is accepted by *Pattern Recognition*
-- **[Jun. 2021]** Our team *AStarTrek* achieved the **1st place winner** for [the CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html).
+- **[Jun. 2021]** Our team *AStarTrek* achieved the **1st place winner** for [the CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html), which is offically repored by ASTAR on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6805305218507657216/).
 - **[Jun. 2021]** One paper is accepted by *Journal of Biophotonics*.
 - **[Apr. 2021]** One paper is accepted by *Biomedical Optics Express*.
 - **[Oct. 2020]** One paper is accepted by *IEEE Signal Processing Letters*.
