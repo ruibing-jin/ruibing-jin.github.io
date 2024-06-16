@@ -9,8 +9,8 @@ I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for 
 My research interests include computer vision, machine learning, time series and federated learning.
 
 ## Awards
-- **Best Paper Award**, The 17th IEEE Conference on Industrial Electronics and Applications (2022)
-- **1st Place Winner**, 4th CVPR UG2+ Challenge (10k USD prizes): Fully Supervised Action Recognition in the Dark (2021)
+- [**Best Paper Award**](https://www.ieeeiciea.org/2022/), The 17th IEEE Conference on Industrial Electronics and Applications (2022)
+- [**1st Place Winner**](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html), 4th CVPR UG2+ Challenge (10k USD prizes): Fully Supervised Action Recognition in the Dark (2021)
 
 ## Services
 I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TNNLS, TII, PR, etc.
