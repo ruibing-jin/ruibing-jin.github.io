@@ -9,6 +9,8 @@ I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for 
 My research interests include computer vision, machine learning, time series and federated learning.
 
 ## Awards
+- **A*STAR Research Highlights**, Agency for Science, Technology and Research[Link](https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/)
+- **Good Article Promotion**, IEEE/CAA Journal of Automatica Sinica (2024 IF: 15.3)[Link](https://mp.weixin.qq.com/s/Mua13qe4LJqt1AwZ2XHFYQ) 
 - **Best Paper Award**, The 17th IEEE Conference on Industrial Electronics and Applications (2022)[Link](https://www.ieeeiciea.org/2022/)
 - **1st Place Winner**, 4th CVPR UG2+ Challenge (10k USD prizes): Fully Supervised Action Recognition in the Dark (2021)[Link](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html)
 
