@@ -17,7 +17,7 @@ My research interests include computer vision, machine learning, time series and
 ## Services
 I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TNNLS, TII, PR, etc.
 
-## News <a href="https://buaacyw.github.io/mesh-anything/">MeshAnything</a>
+## News
 <div class="news-section">
 <ul>
   <li><strong>[Jun. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
