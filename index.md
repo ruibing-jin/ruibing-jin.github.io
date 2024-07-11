@@ -20,26 +20,26 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 ## News
 <div class="news-section">
 <ul>
-  <li><strong>[Jun. 2024]</strong> One paper is accepted by *IEEE Transactions on Industrial Informatics*.</li> 
-  <li><strong>[May. 2024]</strong> One paper is accepted by *IEEE Transactions on Artificial Intelligence*.</li> 
+  <li><strong>[Jun. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
+  <li><strong>[May. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Artificial Intelligence</strong>.</li> 
   <li><strong>[Feb. 2024]</strong> Our [AdaNet](https://ieeexplore.ieee.org/abstract/document/10065450) published on TII is reported on [A*STAR Research Highlights](https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/).</li> 
-  <li><strong>[Dec. 2023]</strong> One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.</li> 
-  <li><strong>[Oct. 2023]</strong> One paper is accepted by *IEEE Transactions on Neural Networks and Learning Systems*.</li> 
-  <li><strong>[Oct. 2023]</strong> One paper is accepted by *IEEE Transactions on Reliability*.</li> 
-  <li><strong>[Mar. 2023]</strong> One paper is accepted by *IEEE Transactions on Industrial Informatics*.</li> 
-  <li><strong>[Dec. 2022]</strong> Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won **the best paper award** at The 17th IEEE Conference on Industrial Electronics and Applications 2022！</li> 
+  <li><strong>[Dec. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Instrumentation and Measurement</strong>.</li> 
+  <li><strong>[Oct. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>.</li> 
+  <li><strong>[Oct. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Reliability</strong>.</li> 
+  <li><strong>[Mar. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
+  <li><strong>[Dec. 2022]</strong> Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won <strong>the best paper award</strong> at The 17th IEEE Conference on Industrial Electronics and Applications 2022！</li> 
   <li><strong>[Dec. 2022]</strong> The source code for our [Bi-LSTM based Two-Stream Network for RUL](https://github.com/ruibing-jin/Bi_LSTM_TS) is released!</li> 
-  <li><strong>[Nov. 2022]</strong> One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.</li> 
+  <li><strong>[Nov. 2022]</strong> One paper is accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>.</li> 
   <li><strong>[Oct. 2022]</strong> 💥💥Our [PE-Net](https://ieeexplore.ieee.org/document/9849459) receives much attention and is reported by the [official JAS channel](https://mp.weixin.qq.com/s/Mua13qe4LJqt1AwZ2XHFYQ) and some famous media, such as [Tech Xplore](https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.amp), [EurekAlert!](https://www.eurekalert.org/news-releases/968147), and [PR Newswire](https://www.prnewswire.com/news-releases/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines-301654980.html).</li> 
   <li><strong>[Oct. 2022]</strong> The source code for our [PE-Net](https://github.com/ruibing-jin/PE-Net) is released!</li> 
-  <li><strong>[Aug. 2022]</strong> One paper is accepted by *IEEE/CAA Journal of Automatica Sinica*.</li> 
-  <li><strong>[Apr. 2022]</strong> One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.</li> 
-  <li><strong>[Feb. 2022]</strong> One paper is accepted by *Knowledge-Based Systems*</li> 
-  <li><strong>[Feb. 2022]</strong> One paper is accepted by *Pattern Recognition*</li> 
-  <li><strong>[Jun. 2021]</strong> Our team *AStarTrek* achieved the **1st place winner** for [the CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html), which is officially repored by ASTAR on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6805305218507657216/).</li> 
-  <li><strong>[Jun. 2021]</strong> One paper is accepted by *Journal of Biophotonics*.</li> 
-  <li><strong>[Apr. 2021]</strong> One paper is accepted by *Biomedical Optics Express*.</li> 
-  <li><strong>[Oct. 2020]</strong> One paper is accepted by *IEEE Signal Processing Letters*.</li> 
+  <li><strong>[Aug. 2022]</strong> One paper is accepted by <strong>IEEE/CAA Journal of Automatica Sinica</strong>.</li> 
+  <li><strong>[Apr. 2022]</strong> One paper is accepted by <strong>IEEE Transactions on Instrumentation and Measurement</strong>.</li> 
+  <li><strong>[Feb. 2022]</strong> One paper is accepted by <strong>Knowledge-Based Systems</strong></li> 
+  <li><strong>[Feb. 2022]</strong> One paper is accepted by <strong>Pattern Recognition</strong></li> 
+  <li><strong>[Jun. 2021]</strong> Our team *AStarTrek* achieved the <strong>1st place winner</strong> for [the CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html), which is officially repored by ASTAR on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6805305218507657216/).</li> 
+  <li><strong>[Jun. 2021]</strong> One paper is accepted by <strong>Journal of Biophotonics</strong>.</li> 
+  <li><strong>[Apr. 2021]</strong> One paper is accepted by <strong>Biomedical Optics Express</strong>.</li> 
+  <li><strong>[Oct. 2020]</strong> One paper is accepted by <strong>IEEE Signal Processing Letters</strong>.</li> 
 </ul>
 </div>
 
