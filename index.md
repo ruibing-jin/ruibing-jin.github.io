@@ -20,6 +20,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 ## News
 <div class="news-section">
 <ul>
+  <li><strong>[Jul. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
   <li><strong>[Jun. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
   <li><strong>[May. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Artificial Intelligence</strong>.</li> 
   <li><strong>[Feb. 2024]</strong> Our <a href="https://ieeexplore.ieee.org/abstract/document/10065450">AdaNet</a> published on TII is reported on <a href="https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/">A*STAR Research Highlights</a>.</li> 
