@@ -15,7 +15,7 @@ My research interests include computer vision, machine learning, time series and
 - **1st Place Winner**, 4th CVPR UG2+ Challenge (10k USD prizes): Fully Supervised Action Recognition in the Dark (2021)\[[Link](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html)\]
 
 ## Services
-I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, TCSVT, TNNLS, TII, PR, etc.
+I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, AAAI, TCSVT, TNNLS, TII, PR, etc.
 
 ## News
 <div class="news-section">
