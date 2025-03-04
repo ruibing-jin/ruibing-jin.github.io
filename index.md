@@ -3,10 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. Previously, I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC). After that, I obtained my Master and Ph.D degree from Nanyang Technological University (NTU), Singapore, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
+I am currently a Lead Data Scientist and lead an algorithm middle platform team in TikTok. Before that, I was a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC). After that, I obtained my Master and Ph.D degree from Nanyang Technological University (NTU), Singapore, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
 
 ## Research Interests
-My research interests include computer vision, machine learning, time series and federated learning.
+My research interests include multimodal large model, AIGC, computer vision, machine learning, time series and federated learning.
 
 ## Awards
 - **A*STAR Research Highlights**, Agency for Science, Technology and Research \[[Link](https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/)\]
