@@ -20,6 +20,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 ## News
 <div class="news-section">
 <ul>
+  <li><strong>[Mar. 2025]</strong> One paper on AIGC is accepted by <strong>ICME 2025</strong>.</li> 
   <li><strong>[Jul. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
   <li><strong>[Jun. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
   <li><strong>[May. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Artificial Intelligence</strong>.</li> 
