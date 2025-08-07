@@ -86,7 +86,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Industrial Informatics</em>
+    <em>IEEE Transactions on Industrial Informatics(TII)</em>
   </p>
 
   <br>
@@ -99,7 +99,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE/CAA Journal of Automatica Sinica</em>
+    <em>IEEE/CAA Journal of Automatica Sinica(JAS)</em>
   </p>
 
   <br>
@@ -112,7 +112,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Instrumentation and Measurement</em>
+    <em>IEEE Transactions on Instrumentation and Measurement(TIM)</em>
   </p>
 
   <br>
@@ -138,7 +138,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>Pattern Recognition</em>
+    <em>Pattern Recognition(PR)</em>
   </p>
 
 </div>
