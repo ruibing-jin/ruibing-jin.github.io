@@ -121,7 +121,7 @@ Network for Remaining Useful Life Prediction</span>
     Xiaoli Li, Lihua Xie, Zhenghua Chen,
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Neural Networks and Learning Systems, 2023</em>
+    <em>IEEE Transactions on Neural Networks and Learning Systems(TNNLS), 2023</em>
   </p>
 
   <br>
