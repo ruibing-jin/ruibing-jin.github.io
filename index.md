@@ -156,5 +156,87 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     </p>
   </div>
 
-  <!-- 其余年份保持一致处理（略） -->
+  <!-- Year: 2022 -->
+  <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2022 —</h3>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Reinforced Adaptation Network for Partial Domain Adaptation</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wu, Keyu, Min Wu, Zhenghua Chen,
+      <strong>Ruibing Jin</strong>, 
+      Wei Cui, Zhiguang Cao, Xiaoli Li
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2022</em>
+    </p>
+  </div>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Multi-task Self-Supervised Adaptation for Reinforcement Learning</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wu, Keyu, Zhenghua Chen, Min Wu, Shili Xiang,
+      <strong>Ruibing Jin</strong>, 
+      Le Zhang, Xiaoli Li
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE 17th Conference on Industrial Electronics and Applications (ICIEA), 2022</em>
+    </p>
+  </div>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Jin Ruibing</strong>, 
+      Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE/CAA Journal of Automatica Sinica(JAS), 2022</em>
+    </p>
+  </div>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2022</em>
+    </p>
+  </div>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Online Active Proposal Set Generation for Weakly Supervised Object Detection</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Guosheng Lin, Changyun Wen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>Knowledge-Based Systems, 2022</em>
+    </p>
+  </div>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Feature flow: In-network feature flow estimation for video object detection</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>Pattern Recognition(PR), 2022</em>
+    </p>
+  </div>
+
 </div>
