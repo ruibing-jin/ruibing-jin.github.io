@@ -41,7 +41,6 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 </style>
 
 <div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; margin-top:20px;">
-  <h3 style="font-size:18px; font-weight:600; color:#2c3e50; margin-bottom:6px;">News</h3>
 
   <div class="news-scroll">
     <ul style="margin: 0; padding-left: 20px;">
