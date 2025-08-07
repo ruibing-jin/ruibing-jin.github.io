@@ -49,7 +49,55 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 
 <div class="paper" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5; margin-bottom:16px;">
   <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">FedAlign: Federated Model Alignment via Data-Free Knowledge Distillationfor Machine Fault Diagnosis </span> 
+    <span style="color:#1f78b4;">Curriculum-based Federated Learning for Machine Fault Diagnosis
+with Noisy Labels</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Wenjun Sun, 
+    Ruqiang Yan<span style="color:#aaa;">*</span>, 
+    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+    Rui Zhao, Zhenghua Chen,
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
+  </p>
+
+  <br>
+
+<div class="paper" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5; margin-bottom:16px;">
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">FedCov: Enhanced Trustworthy Federated Learning for
+Machine RUL Prediction with Continuous-to-Discrete Conversion</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Chao Cai, Yuming Fang, 
+    Weide Liu<span style="color:#aaa;">*</span>, 
+    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+    Jun Cheng, Zhenghua Chen,
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Reinforced Reweighting for
+Self-supervised Partial Domain Adaptation</span> 
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang,  
+    <strong>Ruibing Jin</strong>, 
+    Yuecong Xu, Xiaoli Li, Zhenghua Chen,
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Artificial Intelligence, 2024</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">FedAlign: Federated Model Alignment via Data-Free Knowledge Distillationfor Machine Fault Diagnosis</span> 
   </p>
   <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
     Wenjun Sun, 
@@ -58,7 +106,22 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Rui Zhao, Zhenghua Chen
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Instrumentation and Measurement(TIM)</em>
+    <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2023</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Local–Global Correlation Fusion-Based Graph Neural
+Network for Remaining Useful Life Prediction</span> 
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Yucheng Wang, Min Wu,
+    <strong>Ruibing Jin</strong>, 
+    Xiaoli Li, Lihua Xie, Zhenghua Chen,
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Neural Networks and Learning Systems, 2023</em>
   </p>
 
   <br>
@@ -73,7 +136,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Jiawen Xu, Yuan Yang, Zhenghua Chen
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Reliability</em>
+    <em>IEEE Transactions on Reliability, 2023</em>
   </p>
 
   <br>
@@ -86,7 +149,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Industrial Informatics(TII)</em>
+    <em>IEEE Transactions on Industrial Informatics(TII), 2023</em>
   </p>
 
   <br>
@@ -99,7 +162,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE/CAA Journal of Automatica Sinica(JAS)</em>
+    <em>IEEE/CAA Journal of Automatica Sinica(JAS), 2022</em>
   </p>
 
   <br>
@@ -112,7 +175,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Instrumentation and Measurement(TIM)</em>
+    <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2022</em>
   </p>
 
   <br>
@@ -125,7 +188,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Guosheng Lin, Changyun Wen
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>Knowledge-Based Systems</em>
+    <em>Knowledge-Based Systems, 2022</em>
   </p>
 
   <br>
@@ -138,7 +201,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
   </p>
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>Pattern Recognition(PR)</em>
+    <em>Pattern Recognition(PR), 2022</em>
   </p>
 
 </div>
