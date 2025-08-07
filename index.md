@@ -18,35 +18,95 @@ My research interests include multimodal large model, AIGC, computer vision, mac
 I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV, AAAI, ACM MM, TCSVT, TNNLS, TII, PR, etc.
 
 ## News
-<div class="news-section">
-<ul>
-  <li><strong>[Mar. 2025]</strong> One paper on AIGC is accepted by <strong>ICME 2025</strong>.</li> 
-  <li><strong>[Jul. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
-  <li><strong>[Jun. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
-  <li><strong>[May. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Artificial Intelligence</strong>.</li> 
-  <li><strong>[Feb. 2024]</strong> Our <a href="https://ieeexplore.ieee.org/abstract/document/10065450">AdaNet</a> published on TII is reported on <a href="https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/">A*STAR Research Highlights</a>.</li> 
-  <li><strong>[Dec. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Instrumentation and Measurement</strong>.</li> 
-  <li><strong>[Oct. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>.</li> 
-  <li><strong>[Oct. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Reliability</strong>.</li> 
-  <li><strong>[Mar. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
-  <li><strong>[Dec. 2022]</strong> Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won <strong>the best paper award</strong> at The 17th IEEE Conference on Industrial Electronics and Applications 2022！</li> 
-  <li><strong>[Dec. 2022]</strong> The source code for our <a href="https://github.com/ruibing-jin/Bi_LSTM_TS">Bi-LSTM based Two-Stream Network for RUL</a> is released!</li> 
-  <li><strong>[Nov. 2022]</strong> One paper is accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>.</li> 
-  <li><strong>[Oct. 2022]</strong> 💥💥Our <a href="https://ieeexplore.ieee.org/document/9849459">PE-Net</a> receives much attention and is reported by the <a href="https://mp.weixin.qq.com/s/Mua13qe4LJqt1AwZ2XHFYQ">official JAS channel</a> and some famous media, such as <a href="https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.amp">Tech Xplore</a>, <a href="https://www.eurekalert.org/news-releases/968147">EurekAlert!</a>, and <a href="https://www.prnewswire.com/news-releases/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines-301654980.html">PR Newswire</a>.</li> 
-  <li><strong>[Oct. 2022]</strong> The source code for our <a href="https://github.com/ruibing-jin/PE-Net">PE-Net</a> is released!</li> 
-  <li><strong>[Aug. 2022]</strong> One paper is accepted by <strong>IEEE/CAA Journal of Automatica Sinica</strong>.</li> 
-  <li><strong>[Apr. 2022]</strong> One paper is accepted by <strong>IEEE Transactions on Instrumentation and Measurement</strong>.</li> 
-  <li><strong>[Feb. 2022]</strong> One paper is accepted by <strong>Knowledge-Based Systems</strong></li> 
-  <li><strong>[Feb. 2022]</strong> One paper is accepted by <strong>Pattern Recognition</strong></li> 
-  <li><strong>[Jun. 2021]</strong> Our team <strong>AStarTrek</strong> achieved the <strong>1st place winner</strong> for <a href="http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html">the CVPR 2021 UG2+ Challenge Track 2.1</a>, which is officially repored by ASTAR on <a href="https://www.linkedin.com/feed/update/urn:li:activity:6805305218507657216/">LinkedIn</a>.</li> 
-  <li><strong>[Jun. 2021]</strong> One paper is accepted by <strong>Journal of Biophotonics</strong>.</li> 
-  <li><strong>[Apr. 2021]</strong> One paper is accepted by <strong>Biomedical Optics Express</strong>.</li> 
-  <li><strong>[Oct. 2020]</strong> One paper is accepted by <strong>IEEE Signal Processing Letters</strong>.</li> 
-</ul>
+<style>
+  .news-scroll-wrapper {
+    overflow: hidden;
+    transition: max-height 0.4s ease;
+    max-height: 0;
+  }
+
+  .news-scroll-inner {
+    max-height: 220px;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    border: 1px solid #eee;
+    padding: 12px;
+    border-radius: 6px;
+    background-color: #fafafa;
+    margin-top: 8px;
+  }
+
+  .news-scroll-inner::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .news-scroll-inner::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+  }
+
+  .toggle-button {
+    font-size: 14px;
+    background-color: #1f78b4;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 6px;
+  }
+</style>
+
+<div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; margin-top:20px;">
+  <h3 style="font-size:18px; font-weight:600; color:#2c3e50; margin-bottom:6px;">News</h3>
+
+  <button class="toggle-button" onclick="toggleNews()">Show News</button>
+
+  <div id="newsWrapper" class="news-scroll-wrapper">
+    <div class="news-scroll-inner">
+      <ul style="margin: 0; padding-left: 20px; font-size:14.5px; color:#3d3d3d; line-height:1.6;">
+        <li><strong>[Mar. 2025]</strong> One paper on AIGC is accepted by <strong>ICME 2025</strong>.</li> 
+        <li><strong>[Jul. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
+        <li><strong>[Jun. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
+        <li><strong>[May. 2024]</strong> One paper is accepted by <strong>IEEE Transactions on Artificial Intelligence</strong>.</li> 
+        <li><strong>[Feb. 2024]</strong> Our <a href="https://ieeexplore.ieee.org/abstract/document/10065450">AdaNet</a> published on TII is reported on <a href="https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/">A*STAR Research Highlights</a>.</li> 
+        <li><strong>[Dec. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Instrumentation and Measurement</strong>.</li> 
+        <li><strong>[Oct. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>.</li> 
+        <li><strong>[Oct. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Reliability</strong>.</li> 
+        <li><strong>[Mar. 2023]</strong> One paper is accepted by <strong>IEEE Transactions on Industrial Informatics</strong>.</li> 
+        <li><strong>[Dec. 2022]</strong> Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won <strong>the best paper award</strong> at The 17th IEEE Conference on Industrial Electronics and Applications 2022！</li> 
+        <li><strong>[Dec. 2022]</strong> The source code for our <a href="https://github.com/ruibing-jin/Bi_LSTM_TS">Bi-LSTM based Two-Stream Network for RUL</a> is released!</li> 
+        <li><strong>[Nov. 2022]</strong> One paper is accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>.</li> 
+        <li><strong>[Oct. 2022]</strong> 💥💥Our <a href="https://ieeexplore.ieee.org/document/9849459">PE-Net</a> receives much attention and is reported by the <a href="https://mp.weixin.qq.com/s/Mua13qe4LJqt1AwZ2XHFYQ">official JAS channel</a> and some famous media, such as <a href="https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.amp">Tech Xplore</a>, <a href="https://www.eurekalert.org/news-releases/968147">EurekAlert!</a>, and <a href="https://www.prnewswire.com/news-releases/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines-301654980.html">PR Newswire</a>.</li> 
+        <li><strong>[Oct. 2022]</strong> The source code for our <a href="https://github.com/ruibing-jin/PE-Net">PE-Net</a> is released!</li> 
+        <li><strong>[Aug. 2022]</strong> One paper is accepted by <strong>IEEE/CAA Journal of Automatica Sinica</strong>.</li> 
+        <li><strong>[Apr. 2022]</strong> One paper is accepted by <strong>IEEE Transactions on Instrumentation and Measurement</strong>.</li> 
+        <li><strong>[Feb. 2022]</strong> One paper is accepted by <strong>Knowledge-Based Systems</strong></li> 
+        <li><strong>[Feb. 2022]</strong> One paper is accepted by <strong>Pattern Recognition</strong></li> 
+        <li><strong>[Jun. 2021]</strong> Our team <strong>AStarTrek</strong> achieved the <strong>1st place winner</strong> for <a href="http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html">the CVPR 2021 UG2+ Challenge Track 2.1</a>, which is officially reported by ASTAR on <a href="https://www.linkedin.com/feed/update/urn:li:activity:6805305218507657216/">LinkedIn</a>.</li> 
+        <li><strong>[Jun. 2021]</strong> One paper is accepted by <strong>Journal of Biophotonics</strong>.</li> 
+        <li><strong>[Apr. 2021]</strong> One paper is accepted by <strong>Biomedical Optics Express</strong>.</li> 
+        <li><strong>[Oct. 2020]</strong> One paper is accepted by <strong>IEEE Signal Processing Letters</strong>.</li> 
+      </ul>
+    </div>
+  </div>
 </div>
 
-## Selected Publications
+<script>
+  function toggleNews() {
+    const wrapper = document.getElementById("newsWrapper");
+    const btn = document.querySelector(".toggle-button");
+    if (wrapper.style.maxHeight === "0px" || wrapper.style.maxHeight === "") {
+      wrapper.style.maxHeight = "1000px";
+      btn.textContent = "Hide News";
+    } else {
+      wrapper.style.maxHeight = "0px";
+      btn.textContent = "Show News";
+    }
+  }
+</script>
 
+## Selected Publications
 <div style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5;">
 
   <!-- Year: 2024 -->
