@@ -61,6 +61,8 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
     <em>IEEE Transactions on Instrumentation and Measurement(TIM)</em>
   </p>
 
+  <br>
+
 <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
     <span style="color:#1f78b4;">LiteFormer: A Lightweight and Efficient Transformer for Rotating Machine Fault Diagnosis</span>
   </p>
