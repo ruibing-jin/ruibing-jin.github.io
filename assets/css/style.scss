@@ -1,18 +1,4 @@
 ---
 ---
 @import "minimal-light";
-.image.avatar img {
-  border-radius: 20px !important;  /* 更明显的圆角 */
-  width: 180px !important;         /* 固定宽度防止在窄屏过大 */
-  max-width: 100%;                 /* 防止溢出容器 */
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
 
-/* 小屏设备上缩小头像 */
-@media (max-width: 600px) {
-  .image.avatar img {
-    width: 140px !important;
-  }
-}
