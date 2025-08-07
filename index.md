@@ -60,69 +60,83 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
   <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
     <em>IEEE Transactions on Instrumentation and Measurement(TIM)</em>
   </p>
+
+<p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">LiteFormer: A Lightweight and Efficient Transformer for Rotating Machine Fault Diagnosis</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Wenjun Sun, 
+    Ruqiang Yan<span style="color:#aaa;">*</span>, 
+    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+    Jiawen Xu, Yuan Yang, Zhenghua Chen
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Reliability</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">An adaptive and dynamical neural network for machine remaining useful life prediction</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    <strong>Ruibing Jin</strong>, 
+    Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Industrial Informatics</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    <strong>Jin Ruibing</strong>, 
+    Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE/CAA Journal of Automatica Sinica</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    <strong>Ruibing Jin</strong>, 
+    Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Instrumentation and Measurement</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Online Active Proposal Set Generation for Weakly Supervised Object Detection</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    <strong>Ruibing Jin</strong>, 
+    Guosheng Lin, Changyun Wen
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>Knowledge-Based Systems</em>
+  </p>
+
+  <br>
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Feature flow: In-network feature flow estimation for video object detection</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    <strong>Ruibing Jin</strong>, 
+    Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>Pattern Recognition</em>
+  </p>
+
 </div>
-
-<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5; margin: 10px 0;">
-
-  <div style="margin-bottom: 12px;">
-    <div style="color: #2c3e50; font-weight: bold; font-size: 17px;">
-      LiteFormer: A Lightweight and Efficient Transformer for Rotating Machine Fault Diagnosis
-    </div>
-    <div style="color: #3d3d3d; font-size: 14px;">
-      Wenjun Sun, Ruqiang Yan<span style="color: #aaa;">*</span>, <strong>Ruibing Jin</strong><span style="color: #aaa;">*</span>, Jiawen Xu, Yuan Yang, Zhenghua Chen
-    </div>
-    <div style="color: #2f4f4f; font-size: 13.5px;"><em>IEEE Transactions on Reliability</em></div>
-  </div>
-
-  <div style="margin-bottom: 12px;">
-    <div style="color: #2c3e50; font-weight: bold; font-size: 17px;">
-      An adaptive and dynamical neural network for machine remaining useful life prediction
-    </div>
-    <div style="color: #3d3d3d; font-size: 14px;">
-      <strong>Ruibing Jin</strong>, Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
-    </div>
-    <div style="color: #2f4f4f; font-size: 13.5px;"><em>IEEE Transactions on Industrial Informatics</em></div>
-  </div>
-
-  <div style="margin-bottom: 12px;">
-    <div style="color: #2c3e50; font-weight: bold; font-size: 17px;">
-      Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction
-    </div>
-    <div style="color: #3d3d3d; font-size: 14px;">
-      <strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
-    </div>
-    <div style="color: #2f4f4f; font-size: 13.5px;"><em>IEEE/CAA Journal of Automatica Sinica</em></div>
-  </div>
-
-  <div style="margin-bottom: 12px;">
-    <div style="color: #2c3e50; font-weight: bold; font-size: 17px;">
-      Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction
-    </div>
-    <div style="color: #3d3d3d; font-size: 14px;">
-      <strong>Ruibing Jin</strong>, Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
-    </div>
-    <div style="color: #2f4f4f; font-size: 13.5px;"><em>IEEE Transactions on Instrumentation and Measurement</em></div>
-  </div>
-
-  <div style="margin-bottom: 12px;">
-    <div style="color: #2c3e50; font-weight: bold; font-size: 17px;">
-      Online Active Proposal Set Generation for Weakly Supervised Object Detection
-    </div>
-    <div style="color: #3d3d3d; font-size: 14px;">
-      <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen
-    </div>
-    <div style="color: #2f4f4f; font-size: 13.5px;"><em>Knowledge-Based Systems</em></div>
-  </div>
-
-  <div style="margin-bottom: 12px;">
-    <div style="color: #2c3e50; font-weight: bold; font-size: 17px;">
-      Feature flow: In-network feature flow estimation for video object detection
-    </div>
-    <div style="color: #3d3d3d; font-size: 14px;">
-      <strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
-    </div>
-    <div style="color: #2f4f4f; font-size: 13.5px;"><em>Pattern Recognition</em></div>
-  </div>
-
-</div>
-
