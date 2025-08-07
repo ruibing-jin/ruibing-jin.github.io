@@ -3,10 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a Lead Data Scientist and lead an algorithm middle platform team in TikTok. Before that, I was a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC). After that, I obtained my Master and Ph.D degree from Nanyang Technological University (NTU), Singapore, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
+I am currently a Lead Data Scientist and a Team Lead of an MLLM(Multimodal Large Language Models) algorithm team in [TikTok](https://www.tiktok.com/about?lang=en). 
 
-## Research Interests
-My research interests include multimodal large model, AIGC, computer vision, machine learning, time series and federated learning.
+I was a Research Scientist at [Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/i2r), Singapore. I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). After that, I obtained my Master and Ph.D degree from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, respectively, under the supervision of Prof. Wang Jianliang, [Prof. Wen Changyun](https://dr.ntu.edu.sg/entities/person/Wen-Changyun) and [Prof. Lin Guosheng](https://dr.ntu.edu.sg/entities/person/Guosheng-Lin). I also cooperated with [Prof. Yuan Junsong](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/yuan-junsong.html).
+
+My research interests include multimodal learning, AIGC, computer vision, and time series.
 
 ## Awards
 - **A*STAR Research Highlights**, Agency for Science, Technology and Research \[[Link](https://research.a-star.edu.sg/articles/highlights/seamless-operations-with-machine-health-checks/)\]
