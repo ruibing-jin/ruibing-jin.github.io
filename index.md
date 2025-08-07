@@ -47,18 +47,23 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 
 ## Selected Publications
 
-<div class="paper" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.4; margin-bottom:16px;">
-  <p style="margin:0; font-size:17px; font-weight:600; color:#333;">
-    FedAlign: Federated Model Alignment via Data-Free Knowledge Distillation for Machine Fault Diagnosis
+<div class="paper" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5; margin-bottom:16px;">
+
+  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    FedAlign: <span style="color:#1f78b4;">Federated Model Alignment via Data-Free Knowledge Distillation</span> for Machine Fault Diagnosis
   </p>
-  <p style="margin:0; font-size:14.5px; color:#444;">
-    Wenjun Sun, Ruqiang Yan<span style="color:#888;">*</span>, 
-    <strong style="color:#000;">Ruibing Jin<span style="color:#888;">*</span></strong>, 
+
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    <span style="color:#000;">Wenjun Sun</span>, 
+    Ruqiang Yan<span style="color:#aaa;">*</span>, 
+    <strong style="color:#b07d29;">Ruibing Jin<span style="color:#aaa;">*</span></strong>, 
     Rui Zhao, Zhenghua Chen
   </p>
-  <p style="margin:0; font-size:13.5px; color:#666;">
+
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
     <em>IEEE Transactions on Instrumentation and Measurement</em>
   </p>
+
 </div>
 
 [comment]: <>
