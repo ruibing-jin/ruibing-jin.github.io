@@ -1,4 +1,10 @@
 ---
 ---
 @import "minimal-light";
+.social-icons a {
+  font-size: 16px !important;   /* 提升字体大小至16px或以上 */
+  line-height: 1.2;
+  display: inline-block;
+  padding: 0 6px;               /* 增大触控区域 */
+}
 
