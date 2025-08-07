@@ -154,6 +154,36 @@ Network for Remaining Useful Life Prediction</span>
 
   <br>
 
+   <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Reinforced Adaptation Network for Partial
+Domain Adaptation</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Wu, Keyu, Min Wu, Zhenghua Chen,
+    <strong>Ruibing Jin</strong>, 
+    Wei Cui, Zhiguang Cao, Xiaoli Li,
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2022</em>
+  </p>
+
+  <br> 
+
+     <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+    <span style="color:#1f78b4;">Multi-task Self-Supervised Adaptation for
+Reinforcement Learning</span>
+  </p>
+  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+    Wu, Keyu, Zhenghua Chen, Min Wu, Shili Xiang,
+    <strong>Ruibing Jin</strong>, 
+    Le Zhang, Xiaoli Li
+  </p>
+  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+    <em>IEEE 17th Conference on Industrial Electronics and Applications (ICIEA), 2022</em>
+  </p>
+
+  <br> 
+
   <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
     <span style="color:#1f78b4;">Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</span>
   </p>
