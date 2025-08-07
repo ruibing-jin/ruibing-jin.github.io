@@ -47,191 +47,196 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 
 ## Selected Publications
 
-<div class="paper" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5; margin-bottom:16px;">
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Curriculum-based Federated Learning for Machine Fault Diagnosis
-with Noisy Labels</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Wenjun Sun, 
-    Ruqiang Yan<span style="color:#aaa;">*</span>, 
-    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
-    Rui Zhao, Zhenghua Chen,
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
-  </p>
+<div style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5;">
 
-  <br>
+  <!-- Year: 2024 -->
+  <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2024 —</h3>
 
-<div class="paper" style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5; margin-bottom:16px;">
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">FedCov: Enhanced Trustworthy Federated Learning for
-Machine RUL Prediction with Continuous-to-Discrete Conversion</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Chao Cai, Yuming Fang, 
-    Weide Liu<span style="color:#aaa;">*</span>, 
-    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
-    Jun Cheng, Zhenghua Chen,
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Curriculum-based Federated Learning for Machine Fault Diagnosis with Noisy Labels</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wenjun Sun, 
+      Ruqiang Yan<span style="color:#aaa;">*</span>, 
+      <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+      Rui Zhao, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
+    </p>
+  </div>
 
-  <br>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">FedCov: Enhanced Trustworthy Federated Learning for Machine RUL Prediction with Continuous-to-Discrete Conversion</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Chao Cai, Yuming Fang, 
+      Weide Liu<span style="color:#aaa;">*</span>, 
+      <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+      Jun Cheng, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
+    </p>
+  </div>
 
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Reinforced Reweighting for
-Self-supervised Partial Domain Adaptation</span> 
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang,  
-    <strong>Ruibing Jin</strong>, 
-    Yuecong Xu, Xiaoli Li, Zhenghua Chen,
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Artificial Intelligence, 2024</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Reinforced Reweighting for Self-supervised Partial Domain Adaptation</span> 
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang,  
+      <strong>Ruibing Jin</strong>, 
+      Yuecong Xu, Xiaoli Li, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Artificial Intelligence, 2024</em>
+    </p>
+  </div>
 
-  <br>
+  <!-- Year: 2023 -->
+  <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2023 —</h3>
 
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">FedAlign: Federated Model Alignment via Data-Free Knowledge Distillationfor Machine Fault Diagnosis</span> 
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Wenjun Sun, 
-    Ruqiang Yan<span style="color:#aaa;">*</span>, 
-    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
-    Rui Zhao, Zhenghua Chen
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2023</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">FedAlign: Federated Model Alignment via Data-Free Knowledge Distillation for Machine Fault Diagnosis</span> 
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wenjun Sun, 
+      Ruqiang Yan<span style="color:#aaa;">*</span>, 
+      <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+      Rui Zhao, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2023</em>
+    </p>
+  </div>
 
-  <br>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Local–Global Correlation Fusion-Based Graph Neural Network for Remaining Useful Life Prediction</span> 
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Yucheng Wang, Min Wu,
+      <strong>Ruibing Jin</strong>, 
+      Xiaoli Li, Lihua Xie, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Neural Networks and Learning Systems(TNNLS), 2023</em>
+    </p>
+  </div>
 
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Local–Global Correlation Fusion-Based Graph Neural
-Network for Remaining Useful Life Prediction</span> 
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Yucheng Wang, Min Wu,
-    <strong>Ruibing Jin</strong>, 
-    Xiaoli Li, Lihua Xie, Zhenghua Chen,
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Neural Networks and Learning Systems(TNNLS), 2023</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">LiteFormer: A Lightweight and Efficient Transformer for Rotating Machine Fault Diagnosis</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wenjun Sun, 
+      Ruqiang Yan<span style="color:#aaa;">*</span>, 
+      <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
+      Jiawen Xu, Yuan Yang, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Reliability, 2023</em>
+    </p>
+  </div>
 
-  <br>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">An adaptive and dynamical neural network for machine remaining useful life prediction</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Industrial Informatics(TII), 2023</em>
+    </p>
+  </div>
 
-<p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">LiteFormer: A Lightweight and Efficient Transformer for Rotating Machine Fault Diagnosis</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Wenjun Sun, 
-    Ruqiang Yan<span style="color:#aaa;">*</span>, 
-    <strong>Ruibing Jin</strong><span style="color:#aaa;">*</span>, 
-    Jiawen Xu, Yuan Yang, Zhenghua Chen
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Reliability, 2023</em>
-  </p>
+  <!-- Year: 2022 -->
+  <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2022 —</h3>
 
-  <br>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Reinforced Adaptation Network for Partial Domain Adaptation</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wu, Keyu, Min Wu, Zhenghua Chen,
+      <strong>Ruibing Jin</strong>, 
+      Wei Cui, Zhiguang Cao, Xiaoli Li
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2022</em>
+    </p>
+  </div>
 
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">An adaptive and dynamical neural network for machine remaining useful life prediction</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    <strong>Ruibing Jin</strong>, 
-    Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Industrial Informatics(TII), 2023</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Multi-task Self-Supervised Adaptation for Reinforcement Learning</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Wu, Keyu, Zhenghua Chen, Min Wu, Shili Xiang,
+      <strong>Ruibing Jin</strong>, 
+      Le Zhang, Xiaoli Li
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE 17th Conference on Industrial Electronics and Applications (ICIEA), 2022</em>
+    </p>
+  </div>
 
-  <br>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Jin Ruibing</strong>, 
+      Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE/CAA Journal of Automatica Sinica(JAS), 2022</em>
+    </p>
+  </div>
 
-   <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Reinforced Adaptation Network for Partial
-Domain Adaptation</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Wu, Keyu, Min Wu, Zhenghua Chen,
-    <strong>Ruibing Jin</strong>, 
-    Wei Cui, Zhiguang Cao, Xiaoli Li,
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2022</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2022</em>
+    </p>
+  </div>
 
-  <br> 
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Online Active Proposal Set Generation for Weakly Supervised Object Detection</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Guosheng Lin, Changyun Wen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>Knowledge-Based Systems, 2022</em>
+    </p>
+  </div>
 
-   <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Multi-task Self-Supervised Adaptation for
-Reinforcement Learning</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    Wu, Keyu, Zhenghua Chen, Min Wu, Shili Xiang,
-    <strong>Ruibing Jin</strong>, 
-    Le Zhang, Xiaoli Li
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE 17th Conference on Industrial Electronics and Applications (ICIEA), 2022</em>
-  </p>
-
-  <br> 
-
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    <strong>Jin Ruibing</strong>, 
-    Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE/CAA Journal of Automatica Sinica(JAS), 2022</em>
-  </p>
-
-  <br>
-
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    <strong>Ruibing Jin</strong>, 
-    Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>IEEE Transactions on Instrumentation and Measurement(TIM), 2022</em>
-  </p>
-
-  <br>
-
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Online Active Proposal Set Generation for Weakly Supervised Object Detection</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    <strong>Ruibing Jin</strong>, 
-    Guosheng Lin, Changyun Wen
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>Knowledge-Based Systems, 2022</em>
-  </p>
-
-  <br>
-
-  <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
-    <span style="color:#1f78b4;">Feature flow: In-network feature flow estimation for video object detection</span>
-  </p>
-  <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
-    <strong>Ruibing Jin</strong>, 
-    Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
-  </p>
-  <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-    <em>Pattern Recognition(PR), 2022</em>
-  </p>
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">Feature flow: In-network feature flow estimation for video object detection</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>Pattern Recognition(PR), 2022</em>
+    </p>
+  </div>
 
 </div>
