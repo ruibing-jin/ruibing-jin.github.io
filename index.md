@@ -169,7 +169,7 @@ Domain Adaptation</span>
 
   <br> 
 
-     <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+   <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
     <span style="color:#1f78b4;">Multi-task Self-Supervised Adaptation for
 Reinforcement Learning</span>
   </p>
