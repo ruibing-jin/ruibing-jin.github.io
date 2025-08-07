@@ -1,18 +1,18 @@
 ---
 ---
 
-@import "minimal-light";
-/* 自定义头像为长方形并带圆弧 */
 .image.avatar img {
-  border-radius: 20px;
-  width: 180px;       /* 设置固定宽度 */
-  max-width: 100%;    /* 避免超过容器 */
+  border-radius: 20px !important;  /* 更明显的圆角 */
+  width: 180px !important;         /* 固定宽度防止在窄屏过大 */
+  max-width: 100%;                 /* 防止溢出容器 */
   height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
-/* 当屏幕宽度小于600px时调整头像尺寸 */
+/* 小屏设备上缩小头像 */
 @media (max-width: 600px) {
   .image.avatar img {
-    width: 140px;     /* 在窄屏时减小宽度 */
+    width: 140px !important;
   }
 }
