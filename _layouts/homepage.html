@@ -91,4 +91,15 @@
     </script>
     {% endif %}
   </body>
+  {% raw %}
+  {% if site.enable_tiktok_logo %}
+  <lightonly>
+    <div id="tiktok-header" style="background-color:#f8f8f8; margin:0 auto; height:60px;">
+      <a href="{{ site.tiktok_link }}" rel="noopener">
+        <img src="{{ site.tiktok_logo }}" alt="TikTok logo" style="max-height:70%; margin-left:17%; padding-top:10px;">
+      </a>
+    </div>
+  </lightonly>
+  {% endif %}
+  {% endraw %}
 </html>
