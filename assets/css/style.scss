@@ -4,7 +4,15 @@
 @import "minimal-light";
 /* 自定义头像为长方形并带圆弧 */
 .image.avatar img {
-  border-radius: 12px;      /* 圆角半径，可根据需要调整数值 */
-  width: 100%;
+  border-radius: 20px;
+  width: 180px;       /* 设置固定宽度 */
+  max-width: 100%;    /* 避免超过容器 */
   height: auto;
+}
+
+/* 当屏幕宽度小于600px时调整头像尺寸 */
+@media (max-width: 600px) {
+  .image.avatar img {
+    width: 140px;     /* 在窄屏时减小宽度 */
+  }
 }
