@@ -2,10 +2,9 @@
 ---
 
 @import "minimal-light";
-
-/* 自定义样式：将头像裁剪取消为长方形 */
+/* 自定义头像为长方形并带圆弧 */
 .image.avatar img {
-  border-radius: 0 !important;  /* 取消圆角 */
-  width: 100%;                  /* 让图片填满容器 */
+  border-radius: 12px;      /* 圆角半径，可根据需要调整数值 */
+  width: 100%;
   height: auto;
 }
