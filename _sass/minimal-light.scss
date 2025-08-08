@@ -82,7 +82,8 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      /* border-radius: 100%; */
+      border-radius: 10px;
     }
 
       .image.avatar:before {
@@ -90,9 +91,16 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
+        /* border-radius: 100%;
         width: 50%;
-        padding:20px;
+        padding:20px; */
+        
+        /* 与外部容器保持一致的圆角 */
+        border-radius: 10px;
+        /* 让图片填满容器 */
+        width: 100%;
+        /* 去掉多余的内边距 */
+        padding: 0;
       }
 
     #header .image.avatar {
