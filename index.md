@@ -77,8 +77,52 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
 ## Selected Publications
 <div style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:1.5;">
 
+  <!-- Year: 2025 -->
+  <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2025 —</h3>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">SimCast: Enhancing Precipitation Nowcasting with Short-to-Long Term Knowledge Distillation</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Yifang Yin, Shengkai Chen, Yiyao Li, Lu Wang,
+      <strong>Ruibing Jin</strong>, 
+      Wei Cui, Shili Xiang
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>2025 IEEE International Conference on Multimedia and Expo (ICME), 2025</em>
+    </p>
+  </div>
+
   <!-- Year: 2024 -->
   <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2024 —</h3>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">LLM-based Knowledge Pruning for Time Series Data Analytics on Edge-computing Devices</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      <strong>Ruibing Jin</strong>, 
+      Qing Xu, Min Wu, Yuecong Xu, Dan Li, Xiaoli Li, Zhenghua Chen
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>arXiv preprint arXiv:2406.08765, 2024</em>
+    </p>
+  </div>
+
+  <div class="paper" style="margin-bottom:16px;">
+    <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
+      <span style="color:#1f78b4;">K-link: Knowledge-link graph from llms for enhanced representation learning in multivariate time-series data</span>
+    </p>
+    <p style="margin:0; font-size:14.5px; color:#4d4d4d;">
+      Yucheng Wang, 
+      <strong>Ruibing Jin</strong>, 
+      Min Wu, Xiaoli Li, Lihua Xie, Zhenghua Chen,
+    </p>
+    <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
+      <em>arXiv preprint arXiv:2403.03645, 2024</em>
+    </p>
+  </div>
 
   <div class="paper" style="margin-bottom:16px;">
     <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
@@ -88,7 +132,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
       Wenjun Sun, 
       Ruqiang Yan<span style="color:#555; font-size:12px; vertical-align:super;">*</span>, 
       <strong>Ruibing Jin</strong><span style="color:#555; font-size:12px; vertical-align:super;">*</span>, 
-      Rui Zhao, Zhenghua Chen
+      Rui Zhao, Zhenghua Chen,
     </p>
     <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
       <em>IEEE Transactions on Industrial Informatics(TII), 2024</em>
