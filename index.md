@@ -91,7 +91,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
       Bingxin Lin, Wenzhong Li, See Kiong Ng, Zibin Zheng
     </p>
     <p style="margin:0; font-size:13.5px; color:#2f4f4f;">
-      <em>2025 IEEE International Conference on Multimedia and Expo (ICME), 2025</em>
+      <em>Expert Systems with Applications, 2025</em>
     </p>
   </div>
 
