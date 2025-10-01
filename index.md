@@ -81,7 +81,7 @@ I am a reviewer of top-tier conferences and journals including CVPR, ICCV, ECCV,
   <!-- Year: 2025 -->
   <h3 style="font-size:16px; font-weight:600; color:#2c3e50; border-bottom:1px solid #ddd; padding-bottom:4px; margin-top:24px;">— 2025 —</h3>
 
-    <div class="paper" style="margin-bottom:16px;">
+  <div class="paper" style="margin-bottom:16px;">
     <p style="margin:0; font-size:17px; font-weight:600; color:#2c3e50;">
       <span style="color:#1f78b4;">Restoring Missing Gaps and Intervals via Global Consistency and Local Coherence</span>
     </p>
